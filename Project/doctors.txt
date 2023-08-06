@@ -1,0 +1,13 @@
+Dr.Rajalakshmi:MBBS,MS:Pulmo:6PM-10PM:Mon-Thu
+Dr.Swetha:MBBS,MD:Gyno:5PM-10PM:Mon-Thu		
+Dr.Raghul:MBBS,MD:Oncology:5PM-10PM:Thu-Sat	
+Dr.Swathika:MBBS,MD:Pulmo:10PM-3AM:Mon-Fri	
+Dr.Ragul:MBBS,MD:Ortho:10PM-6AM:Mon-Fri	
+Dr.Pughal:MBBS,MD:Pulmo:9AM-3PM:Mon-Sat	
+Dr.Priya:MBBS,MS:Pediatrician:9AM-4PM:Mon-Wed	
+Dr.Prithika:MBBS,MS:Cardio:11PM-5AM:Mon-Fri	
+Dr.Shobhika:MBBS,MS:Radiology:2PM-6PM:Mon-Fri	
+Dr.Raj:MBBS:ortho:5PM-8PM:Mon:
+Dr.Rohit:MBBS:Ortho:10AM-12PM:Thur-Sat:
+Dr.Shravan:MBBS:Pulmo:9AM-12PM:Mon-Fri:
+Dr.Prahalad:MBBS:Ortho:9AM-12PM:Mon-Thu:

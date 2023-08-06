@@ -1,0 +1,14 @@
+Ram:PID7476:19:Male:Sinusitis:Pencilin allergy
+Ashish:PID7477:27:Male:Influenza:High BP
+Vikram:PID7478:26:Male:Diphtheria:Pencilin allergy
+Arjun:PID7479:30:Male:Viral Fever:Dust allergy
+Mani:PID7480:29:Male:Pneumonia:Lactose intolerant
+Mrinalini:PID7481:23:Female:Asthma:Caffeine allergic
+Madirakshi:PID7482:31:Female:Bronchitis:Heart Problems
+Roshni:PID7483:29:Female:Common Cold:Colloidal particles
+Sheela:PID7485:40:Female:Chest pain:High BP
+Sangeetha:PID7485:35:Female:Diabetes:Low sugar
+Padma:PID7847:19:Female:Sinusitis:Pollen:
+Gomathi:PID5851:46:Female:Body pain:Lactose intolerant:
+Sadhana:PID6364:40:Female:Asthma:Pollen:
+Surya:PID135:19:Male:Allergy:Dust:

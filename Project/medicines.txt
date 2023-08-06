@@ -1,0 +1,8 @@
+Amoxicilin:12-2020:2023:1000:Pencilin allergy:
+Salbutamol:09-2021:2024:1500:Lactose intolerant:
+Dolopar:10-2021:2024:3000:Caffeine allergic:
+Aspirin:07-2022:2025:2000:High BP:
+Pulmoclear:05-2021:2023:2000:Heart Problems:
+Ibuprofen:09-2022:2023:1000:Lactose intolerant:
+Paracetomol:07-2022:2023:1000:Allergy:
+Albutamol:09-2020:2024:1000:Allergy:

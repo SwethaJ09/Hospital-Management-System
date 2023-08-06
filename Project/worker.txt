@@ -1,0 +1,19 @@
+Mr.Ravi:WK12345:ENT:301:10 A.M-10-P.M:
+Mr.Ramesh:WK12345:ENT:301:10 P.M-10-A.M:
+Mr.Roshan:WK89789:Ortho:302:10 A.M-10-P.M:
+Mr.Ramesh:WK23244:Ortho:303:10 P.M-10-A.M:
+Mr.Aakash:WK65464:Hepatology:306:10 A.M-10-P.M:
+Mr.Ashwin:WK34873:Hepatology:306:10 P.M-10-A.M:
+Mr.Suresh:WK20982:General Medicine:307:10 A.M-10-P.M:
+Mr.Subash:WK84341:General Medicine:307:10 P.M-10-A.M:
+Ms.Lakshmi:WK90978:Gynaecology:310:10 A.M-10-P.M:
+Ms.Anu:WK91023:Gynaecology:310:10 A.M-10-P.M:
+
+
+
+
+
+
+Ms.Swetha:WK84053:Gynaecology:420:10AM-10PM:
+Ms.Swetha:WK38750:Gynaecology:405:10AM-10PM:
+M.Swetha:WK1937:Gyno:092:10AM:
